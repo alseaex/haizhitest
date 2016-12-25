@@ -2,4 +2,9 @@ cat
 it is  a dog
 pig
 hahaha
+<<<<<<< HEAD
 bebe
+=======
+hehe
+>>>>>>> fea
+eee`
